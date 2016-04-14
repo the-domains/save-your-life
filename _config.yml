@@ -1,7 +1,7 @@
 name: Save your life
 favicon: null
-layout_spectrum: 0.9768457361496985
-typography_spectrum: 0.42193510150536895
+layout_spectrum: 0.96089
+typography_spectrum: 0.3216
 title: Save your life
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5003397734835744
-  lightness: 0.1686379404272884
+  brandStrength: 0.625
+  lightness: 0.6875
   saturation: 0.444213486276567
   rhythmicContrast: 0.9473054769914597
 purpose: []
