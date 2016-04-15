@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'You have just one life, so make the most of it.'
-datePublished: '2016-04-14T07:54:52.437Z'
-dateModified: '2016-04-14T07:54:22.615Z'
+datePublished: '2016-04-15T08:28:21.967Z'
+dateModified: '2016-04-15T08:28:06.769Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-you-have-just-one-life-so-make-the-most-of-it.md
+published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-sourcePath: _posts/2016-04-14-you-have-just-one-life-so-make-the-most-of-it.md
-published: true
 url: you-have-just-one-life-so-make-the-most-of-it/index.html
 _type: Article
 
