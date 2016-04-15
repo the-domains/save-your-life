@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Save your life]]></title>
         <description><![CDATA[Save your life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/save-your-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:54:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 08:28:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/save-your-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/516409dd-751c-49a5-9d3c-b7d481e29806.jpg">]]></description>
-            <link>undefinedyou-have-just-one-life-so-make-the-most-of-it/index.html</link>
+            <link>https://thegrid.ai/save-your-life/you-have-just-one-life-so-make-the-most-of-it/index.html</link>
             <guid isPermaLink="false">f999af86-c9c3-43c6-b00f-5619e1184725</guid>
-            <pubDate>Thu, 14 Apr 2016 07:54:52 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 08:28:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
